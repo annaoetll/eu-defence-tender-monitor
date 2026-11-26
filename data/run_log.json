@@ -1,26 +1,26 @@
 {
-  "finished_at": "2026-11-25T06:15:24+00:00",
-  "window_start": "2026-11-18",
-  "window_end": "2026-11-25",
-  "reported_by_ted": 80,
-  "received": 80,
-  "valid": 80,
+  "finished_at": "2026-11-26T06:14:51+00:00",
+  "window_start": "2026-11-19",
+  "window_end": "2026-11-26",
+  "reported_by_ted": 89,
+  "received": 89,
+  "valid": 89,
   "quarantined": 0,
-  "added": 20,
+  "added": 16,
   "changed": 0,
-  "total_in_dataset": 4320,
+  "total_in_dataset": 4336,
   "field_coverage": {
     "publication-number": 1.0,
     "publication-date": 1.0,
     "form-type": 1.0,
     "notice-type": 1.0,
-    "procedure-type": 0.9,
+    "procedure-type": 0.91,
     "notice-title": 1.0,
     "buyer-name": 1.0,
     "buyer-country": 1.0,
     "classification-cpv": 1.0,
-    "winner-name": 0.338,
-    "total-value": 0.613,
-    "total-value-cur": 0.625
+    "winner-name": 0.315,
+    "total-value": 0.618,
+    "total-value-cur": 0.629
   }
 }
